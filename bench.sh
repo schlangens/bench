@@ -1,4 +1,4 @@
-!/usr/bin/env bash
+#!/usr/bin/env bash
 
 
 trap _exit INT QUIT TERM
